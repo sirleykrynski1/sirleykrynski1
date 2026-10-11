@@ -1,6 +1,6 @@
 # ¡Holi! Soy Sirley ✨
 
-Soy estudiante de la Licenciatura en Sistemas de Información en la UNNE y desarrolladora Frontend/Backend. Me apasiona crear sistemas útiles y resolver problemas aplicando metodologías ágiles.
+Soy estudiante de la Licenciatura en Sistemas de Información en la UNNE y desarrolladora Frontend/Backend.
 
 ### 💻 Herramientas y Tecnologías
 
